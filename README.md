@@ -1,2 +1,0 @@
-# Exercicios-Javascript
-Exercicios resolvidos.
