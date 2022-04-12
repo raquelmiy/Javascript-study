@@ -1,5 +1,6 @@
-# Exercicios-Javascript
-Exercicios resolvidos.
+# Javascript study
+A repository to study Programming Logic, Javascript dynamics and development of problem solving skills through code.
+
 
 ## Links Úteis
 [Exercícios de lógica de programação] (http://professor.leonardomeirelles.com/wp/exercicios-javascript-laco-de-repeticao/)<br>
